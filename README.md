@@ -514,6 +514,8 @@ La fluctuación se reduce
 
 4. Video
 
+https://www.youtube.com/watch?v=6EqGgbPoGeY
+
 5. Conclusiones
 
 La introducción a la corriente y al voltaje alternos explica lo que es la forma de onda sinuidal u onda seno, en la cual se puede analizar el periodo, la polaridad , frecuencia , a la vez se puede encontrar o establecer la relación entre frecuencia y periodo, además se encuentra varias fuentes de voltaje sinuidal como un generador de CA, del mismo modo se puede calcular los valores de corriente y voltaje  instantaneo, pico, pico a pico y el valor promedio . 
