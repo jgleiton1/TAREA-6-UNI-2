@@ -376,6 +376,11 @@ La fluctuación se reduce
 
 5. Conclusiones
 
+La introducción a la corriente y al voltaje alternos explica lo que es la forma de onda sinuidal u onda seno, en la cual se puede analizar el periodo, la polaridad , frecuencia , a la vez se puede encontrar o establecer la relación entre frecuencia y periodo, además se encuentra varias fuentes de voltaje sinuidal como un generador de CA, del mismo modo se puede calcular los valores de corriente y voltaje  instantaneo, pico, pico a pico y el valor promedio . 
+
+Al respecto de los capacitores se conoce lo que es los tipos de capacitores , el capacitor básico , los capacitores en serie, en circuito de CD y CA  además de las aplicaciones que conlleva , es de gran importancia para poder analizar el circuito y obtener el capacitor total aplicando formulas, puesto uqe no solo se puede encontrar el total o el valor de una en específico. 
+
+Cada circuito es diferente por lo tanto el analisis es distinto, por ello se debe observar de manera correcta cada ejercicio para aplicar las formulas ¿, puesto que en este caso se encuentran presentes las formulas de frecuencia, periodo la de reactancia, entre otras, las cuales facilitan la resolución pero si se las aplica de manera correcta en cada  uno de los ejercicios según lo que se necesite obtener. 
 
 6. Bibliografía
 
