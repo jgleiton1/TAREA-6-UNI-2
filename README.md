@@ -3,7 +3,15 @@
 
 1.1 Objetivo General
 
+Conocer los conceptos generales especificamente de la introducción a la corriente y al voltaje alternos, además  sobre los capacitores , mediante el analisis de la teoria o ejercicios propuestos, para comprender de mejor manera los temas y subtemas que serán aplicados en la resolución de los ejercicios propuestos. 
+
 1.2 Objetivos Específicos
+
+Identificar los conceptos generales e importantes tanto de los temas centralos como de los subtemas .
+
+Resolver los problemas del libro mediante un correcto analices donde se aplique las definiciones anteriormente vistas. 
+
+Identificar las formulas importantes, que permitan facilitar la resolución de los ejercicios correctamente. 
 
 2. Marco Teórico
 
@@ -14,7 +22,96 @@
 
 CAPÍTULO 11
 
+1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
+a) 1s
 
+f = 1/T
+
+f= 1/ 1s
+
+f = 1 Hz
+
+b) 0.2 s
+
+f = 1/0.2s
+
+f = 5 Hz
+
+c) 50 ms
+
+f = 1/(50 x 0.001)
+
+f = 20 Hz
+
+d) 1ms
+
+f = 1/(1 x 0.001)
+
+f = 1 KH
+
+e) 500 μs
+
+f = 1/(500 x 10^-6)
+
+f = 2 KH
+
+f) 10 μs
+
+f = 1/(10 x 10^-6)
+
+f = 100 KHz
+
+2. Una onda seno realiza 5 ciclos en 10 ms. ¿Cuál es su periodo?
+
+T = 10 ms/5
+
+T = 2 μs
+
+3. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia del voltaje de salida inducido?
+
+f = (número de pares de polos)(rps) = 1 x 250 rps
+
+f = 250 Hz
+
+4. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal de 400 Hz?
+
+rps = f / (número de pares de polos)
+
+rps = 400 / 2
+
+rps = 200 rps
+
+5. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
+
+a) pico
+
+7.07 mA
+
+b) promedio
+
+0 A (ciclo completo)
+
+Iprom = 4.5 mA (medio ciclo)
+
+c) pico a pico
+
+Ipp = 2 x 7.07
+
+Ipp = 14.14 mA
+
+6. Transforme los siguientes valores angulares de grados a radianes:
+
+![image](https://user-images.githubusercontent.com/94153604/149451295-41da0839-88b9-4223-a3fa-13e5a8f08406.png)
+
+7. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la que se adelanta?
+
+45° - 30° = 15°
+
+A es la señal que se adelanta 
+
+8. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+
+![image](https://user-images.githubusercontent.com/94153604/149451381-6e5f4319-75ab-4988-84f1-a6be85efe0af.png)
 
 9. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor instantáneo en cada uno de los siguientes puntos:
 
@@ -219,11 +316,66 @@ CAPÍTULO 12
         c.	2 ms
         V = Vi * e^(-t/RC) = 25 * e ^ (-0.002/1000*0.0000015) = 6.59 V
 
+19. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
+![image](https://user-images.githubusercontent.com/94153604/149451447-7b5ceb93-57ee-4d4f-b657-44042b8bf5ab.png)
+
+![image](https://user-images.githubusercontent.com/94153604/149451464-37b57561-c0fb-486f-8b19-28ccd64cb188.png)
+
+20.Determine la constante de tiempo para el circuito de la figura 12-77.
+
+![image](https://user-images.githubusercontent.com/94153604/149451495-e28c28df-67ad-40c0-9eca-aae8a9bc5fda.png)
+
+![image](https://user-images.githubusercontent.com/94153604/149451514-ac1d6880-0548-4bad-bc10-b408b25e8f58.png)
+
+21. a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
+
+![image](https://user-images.githubusercontent.com/94153604/149451541-7b646cd9-937a-4dc3-9d26-e21a1f81c758.png)
+![image](https://user-images.githubusercontent.com/94153604/149451555-a37a0142-9ced-4ff9-959c-8adc42ea9c95.png)
+
+b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+
+![image](https://user-images.githubusercontent.com/94153604/149451594-1b819584-5563-40b7-8830-2ea8d4dc8be0.png)
+
+22. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso.
+
+![image](https://user-images.githubusercontent.com/94153604/149451653-91d51427-5eb7-41c9-a583-e3404b266575.png)
+![image](https://user-images.githubusercontent.com/94153604/149451679-3dff40f4-0d77-4982-b625-0a1ada7f500b.png)
+
+![image](https://user-images.githubusercontent.com/94153604/149451694-96c06145-5cc3-4428-b73e-4cb83b2c7426.png)
+![image](https://user-images.githubusercontent.com/94153604/149451710-2a951e5b-8873-44bb-981d-b9d9b2d6bc7c.png)
+
+![image](https://user-images.githubusercontent.com/94153604/149451727-705bb6b1-1b65-4cc8-8bd3-119526ddf579.png)
+![image](https://user-images.githubusercontent.com/94153604/149451740-54a75d05-f35e-48ed-8c10-c4f9e1dbc4e3.png)
+
+23. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia?
+
+![image](https://user-images.githubusercontent.com/94153604/149451771-c2a22438-319b-41a5-945f-b26fbb804e17.png)
+
+24. Determine la potencia verdadera y la potencia reactiva en el problema 46.
+
+![image](https://user-images.githubusercontent.com/94153604/149451816-d3380767-13c0-4cef-826a-c798a5b01a47.png)
+
+25. Determine el valor de C1 en la figura 12-82.
+
+![image](https://user-images.githubusercontent.com/94153604/149451852-76b6668b-16e5-44c5-ba39-15b36d7d8758.png)
+
+C1=0.00541 μF
+
+26. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+![image](https://user-images.githubusercontent.com/94153604/149451940-4c9f53bb-6c0a-4ec7-8c56-aca508329654.png)
+
+La fluctuación se reduce 
+
+27. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+![image](https://user-images.githubusercontent.com/94153604/149451996-91b6dc2d-c170-4120-b320-eb13d1b85a98.png)
 
 4. Video
 
 5. Conclusiones
+
 
 6. Bibliografía
 
