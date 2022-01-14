@@ -198,12 +198,152 @@ representan valores pico.
 
         Vmin = Vcd - Vp = 5 V - 6 V = -1 V
 
+17. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud
 
+![image](https://user-images.githubusercontent.com/94011974/149514112-0581a866-5179-496c-af18-a21ffd5426b2.png)
 
+Vprom = -1 + (0.1)(2.5)
+Vprom = -0.75V
+Vprom = 1 + (0.1)(3)
+Vprom = 1.3V
+
+18. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura.
+
+![image](https://user-images.githubusercontent.com/94011974/149514215-cf465686-753a-441f-a94a-6a5c81912fec.png)
+
+Línea base = 5V
+Amplitud = 5V
+Ciclo de trabajo = 10%
+Vprom = Línea base + (ciclo de trabajo)(amplitud)
+Vprom = 5 + (0.1)(5)
+Vprom = 5.5V
+
+19. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura.
+
+![image](https://user-images.githubusercontent.com/94011974/149514327-79d186ed-1e82-4bc5-b7b2-e4ace3639e2f.png)
+
+(a)
+Vprom = -1 + (0.1)(2.5)
+Vprom = -0.75V
+
+(b) 
+Vprom = 1 + (0.1)(3)
+Vprom = 1.3V
+
+20. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura?
+
+![image](https://user-images.githubusercontent.com/94011974/149514411-ed3992dd-9360-4243-be93-e38afd27acda.png)
+
+(a)
+F = 1/T
+F = 1/20us
+F = 50kHz
+
+(b)
+F = 1/10ms
+F = 10Hz
+
+21. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+F = 1/0.04s
+F = 25 Hz
+Seis primeros armónicos: 75 – 125 – 175 – 225 – 275 – 325 
+
+22. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura.
+
+![image](https://user-images.githubusercontent.com/94011974/149514667-60c01ddc-612f-469b-8bac-239c0f2b05fa.png)
+
+Vp = 3 divisores * 0.2V/división 
+Vp = 600mV
+
+T = 10 divisores * 50ms
+T = 500ms
+
+23. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
+![image](https://user-images.githubusercontent.com/94011974/149514748-1b7b9d25-ca33-483d-8fa7-b19d6ee329b4.png)
+
+F = 1/T
+F = 1/20us
+F = 50kHz
 
 CAPÍTULO 12
 
+1. (a) Encuentre la capacitancia cuando Q =50 μC y V =10 V.
 
+C=Q/V=(50 μC )/(10 V)=5μF
+
+(b) Determine la carga cuando C = 0.001 μF y V = 1 kV.
+
+Q=C*V=0.001μF*1kV=0.001mC=1μC
+
+(c) Determine el voltaje cuando Q =2 mC y C =200 μF.
+
+V=Q/C=2mC/200μF=0.01kV=10V
+
+2. Transforme los siguientes valores de picofarads a microfarads:
+
+(a) 1000 pF 
+
+1000pF*10^(-6)  μF/pF=0.001 μF
+
+(b) 3500 pF
+
+3500pF*10^(-6)  μF/pF=0.003 μF
+
+(c) 250 pF
+
+250pF*10^(-6)  μF/pF=0.00025 μF
+
+3.¿Cuánta energía guarda un capacitor de 1000 mF que se carga a 500 V?
+
+W=1/2 CV^2=1/2 1000mF(500V)^2=125000J=125kJ
+
+4.Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3
+para obtener los valores de ε r.
+
+(a) aire
+
+ε_r=ε/ε_0 
+ε=ε_r*ε_0=1.0*8.85x10^(-12) (F/m)=8.85x10^(-12)
+
+(b) aceite 
+
+ε=ε_r*ε_0=4.0*8.85x10^(-12) (F/m)=3.54x10^(-11)
+
+(c) vidrio 
+
+ε=ε_r*ε_0=7.5*8.85x10^(-12) (F/m)=6.64x10^(-11)
+
+(d) Teflón®
+
+ε=ε_r*ε_0=2.0*8.85x10^(-12) (F/m)=1.77x10^(-11)
+
+5. Un capacitor de aire tiene un área de placas total de 0.05 m^2. La separación entre las placas es de 4.5x10^-4 m. Calcule la capacitancia.
+
+C=(Aεr(8.85*10^(-12) F/ m))/d
+C=((0.5m^2)(1.0)(8.85*10^(-12) F/ m))/(4.5*10^(-4) m)=9.83x10^(-9) F=0.00983μF
+
+6.Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las
+placas con un dieléctrico de papel (er = 2.5) de 8x10^-5 de espesor. ¿Cuál es la capacitancia de su
+capacitor?
+
+C=(Aεr(8.85*10^(-12) F/ m))/d
+C=((9m^2)(2.5)(8.85*10^(-12) F/ m))/(8*10^(-5) m)=9.83x10^(-9) F=2.49μF
+
+7. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio
+de capacitancia provocará un incremento de 25°C en la temperatura?
+
+Se sabe que un coeficiente de temperatura indica la cantidad y dirección de un cambio de valor de capacitancia debido a la temperatura. Por lo que al poseer el capacitor una temperatura positiva de 500 ppm/°C significa que la capacitancia se incrementa con una elevación de la temperatura o disminuye con un descenso de ésta. Es decir, si aumenta la temperatura en 25°C la capacitancia se incrementa. 
+
+8.De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+El capacitor que tiene una constante dieléctrica más alta es el de cerámica ya que proporciona un valor típico de 1200, mientras que la de mica tan solo proporciona un valor típico de 5. 
+
+9.Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros
+capacitores?
+
+Electrolitos de aluminio con conductores axiales o radiales y electrolitos de tantalio de forma tubular o gota. Los capacitores electrolíticos difieren en que mientras otros capacitores utilizan dos placas similares, el capacitor electrolítico consta de una placa de hoja de aluminio y de otra placa elaborada a partir de un electrolito conductor aplicado a determinado material, tal como película plástica. Estas dos “placas” están separadas por una capa de óxido de aluminio depositada sobre la superficie de la placa de aluminio.
 
 10. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68
 
